@@ -1,0 +1,53 @@
+body,
+html {
+  font-family: "Lato", sans-serif;
+  margin: 4rem;
+  height: 100%;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-item {
+  color: white;
+}
+
+.form-rounded {
+  border-radius: 1rem;
+}
+
+.my-flex-container {
+  border: 1px solid transparent;
+  height: 100%;
+  width: 100%;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+.my-flex-container-right-column {
+  border: 1px solid transparent;
+  height: 100%;
+  width: 70%;
+  margin-right: 10;
+  margin-bottom: 0;
+}
+
+.my-flex-container-column-left {
+  border: 1px solid transparent;
+  height: 100%;
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.my-flex-container-item {
+  color: white;
+  border: 1px solid transparent;
+  height: 100%;
+}
+
+.my-flex-container-item-2 {
+  background-color: lightgray;
+  border: 1px solid grey;
+  height: 3em;
+  width: 100%;
+}
